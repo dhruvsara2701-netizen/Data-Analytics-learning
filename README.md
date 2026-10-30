@@ -9,4 +9,4 @@ I am learning Data Analytics .
   ## MY GOAL
   To become a Data Analytics.
   ## My Projects
-  -coming soon!b   azx
+  -coming soon!
